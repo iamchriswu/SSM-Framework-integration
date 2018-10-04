@@ -7,3 +7,4 @@
 * spring4.2.4RELEASE
 * mybatis3.2.8
 * jar包截图
+![jars](https://github.com/iamchriswu/SSM-Framework-integration/blob/master/images/jars.png)
